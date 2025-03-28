@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad1Mavi2\TrabajoUnidad3\Trabajo3\Trabajo3\Src\Game.cpp(70,96): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad1Mavi2\TrabajoUnidad3\Trabajo3\Trabajo3\Src\Game.cpp(75,103): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad1Mavi2\TrabajoUnidad3\Trabajo3\Trabajo3\Src\Game.cpp(80,103): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Box2dEmptyApp.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad1Mavi2\TrabajoUnidad3\Trabajo3\Trabajo3\Bin\Debug\Trabajo3.exe
