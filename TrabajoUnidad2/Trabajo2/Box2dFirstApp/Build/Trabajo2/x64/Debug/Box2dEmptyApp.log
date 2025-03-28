@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Trabajo2\x64\Debug\) contiene archivos compartidos de otro proyecto (Trabajo1.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Game.cpp
+  Box2dEmptyApp.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi2\PracticaUnidad1Mavi2\TrabajoUnidad2\Trabajo2\Box2dFirstApp\Bin\Debug\Trabajo2.exe

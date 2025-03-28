@@ -46,8 +46,19 @@ void Game::DrawGame()
     groundShape.setPosition(0, 95);
     wnd->draw(groundShape);
 
+    //dibujar las paredes
+    sf::RectangleShape groundShape(sf::Vector2f(5, 500));
+    groundShape.setFillColor(sf::Color::Red);
+    groundShape.setPosition(0, 0);
+    wnd->draw(groundShape);
+
+    sf::RectangleShape groundShape(sf::Vector2f(5, 500));
+    groundShape.setFillColor(sf::Color::Red);
+    groundShape.setPosition(95, 0);
+    wnd->draw(groundShape);
+
     // Dibujar el cuerpo de control (círculo)
-    sf::RectangleShape controlShape(sf::Vector2f(5,5));
+    sf::RectangleShape controlShape(sf::Vector2f(5,6));
     controlShape.setFillColor(sf::Color::Magenta);
     controlShape.setPosition(controlBody->GetPosition().x-2.5, controlBody->GetPosition().y-2.5);
     wnd->draw(controlShape);
